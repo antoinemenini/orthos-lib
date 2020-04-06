@@ -1,8 +1,7 @@
 # Orthos lib
 This is a small C++ lib that does nothing except maybe show how to write a makefile for a lib :)
 
-
-## Include
+## Usage
 
 ```
 #include <orthos.hpp>
